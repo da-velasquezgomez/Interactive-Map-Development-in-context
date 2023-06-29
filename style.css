@@ -1,0 +1,19 @@
+#map-container { 
+    height: 850px;
+    background-color: #ccc;
+}
+body {
+    background-color: black;
+}
+select, button {
+    font-size: 20px;
+}
+#industry {
+    text-align: center;
+    background-color: grey;
+    color: white;
+    margin-left: 1em;
+}
+:hover button {
+    cursor: pointer;
+}
